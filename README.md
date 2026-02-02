@@ -11,6 +11,9 @@ I’m especially interested in building solutions at the intersection of **AI, d
 📚 **MSc in Health Informatics** @ Politecnico di Milano & UniSR  
 🎓 **BSc in Mathematical and Computing Sciences for AI** @ Bocconi University  
 
+
+📬 **Contact:** rebeccameta.rm@gmail.com
+📬 **Contact:** (https://www.linkedin.com/in/rebecca-metallo/)
 <!--
 **BeckyM02/BeckyM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
