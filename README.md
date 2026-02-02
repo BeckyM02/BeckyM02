@@ -7,9 +7,9 @@ I am deeply enthusiastic about AI applications in the medical field, as I find b
 
 ---
 
-### 🗺️ Based in Milan, IT
-### [cite_start]📚 MSc in Health Informatics @ Politecnico di Milano & UniSR 
-### [cite_start]🎓 BSc in Mathematical and Computing Sciences for AI @ Bocconi University 
+🗺️ Based in Milan, IT
+📚 MSc in Health Informatics @ Politecnico di Milano & UniSR 
+🎓 BSc in Mathematical and Computing Sciences for AI @ Bocconi University 
 
 ---
 <!--
