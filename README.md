@@ -1,7 +1,7 @@
 ## Hi, I'm Rebecca 👋
 
 I’ve been passionate about science and technology for as long as I can remember.  
-After attending an International Scientific High School, I started my journey into the world of ** Mathematics and Artificial Intelligence**, with a strong focus on its applications in **healthcare and medicine**.
+After attending an International Scientific High School, I started my journey into the world of **Mathematics and Artificial Intelligence**, with a strong focus on its applications in **healthcare and medicine**.
 
 I’m especially interested in building solutions at the intersection of **AI, data, and medical practice**, where technology can have a real and tangible impact on people’s lives.
 
